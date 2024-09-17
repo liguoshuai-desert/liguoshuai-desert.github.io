@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guoshuai Li"
-description              : "glacierization of desert studies. "
+description              : "Associate Researcher, currently focusing on glacierization study of deserts."
 repository               : "liguoshuai-desert/liguoshuai-desert.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guoshuai Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences"
+  bio              : "Associate Researcher, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences"
   location         : "Lanzhou, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liguoshuai-desert"
+  github           : "https://github.com/liguoshuai-desert"
   google_plus      :
   keybase          :
   instagram        :
