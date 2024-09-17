@@ -14,7 +14,7 @@ My research interest includes desert boundary, bedform migration and sediment bu
 # 🔥 News
 - *2024.09*: none
 
-# 📝 Publications 
+# 📚 Publications 
 
 Guoshuai Li, Lihai Tan, Bao Yang, Tao Che, Guangcai Feng, Fredrik Charpentier Ljungqvist, Yayong Luo, Heqiang Du, Hui Zhao, Ying Zhang, Chunlin Huang, Ning Huang, Wenjun Tang, Rui Jin, Xin Li*. Site selection of desert solar farms based on heterogeneous sand flux. npj Climate and Atmospheric Science 7, 61 (2024).
 
@@ -22,8 +22,12 @@ Guoshuai Li*, Hong Yang, Ying Zhang, Chunlin Huang, Xiaoduo Pan, Mingguo Ma, Min
 
 Guoshuai Li, Xin Li*, Tandong Yao, Tao Che, Hong Yang, Mingguo Ma, Haipeng Zhao, Xiaoduo Pan. Heterogeneous sea-level rises along coastal zones and small islands. Science Bulletin 64, 748-755 (2019).
 
+# 💾 Datasets
+
+Guoshuai Li. (2023). A dataset of global sand flux. http://www.ncdc.ac.cn/portal/metadata/e70e47ed-c10d-4d49-9bb3-62bbf2f06de5. https://doi.org/10.11888/Terre.tpdc.300853.
+
 # 🎖 Honors and Awards
-- *2014* the Special Prize of President Scholarship for Postgraduate Students, Chinese Academy of Sciences 
+-shujuji *2014* the Special Prize of President Scholarship for Postgraduate Students, Chinese Academy of Sciences 
 
 # 📖 Educations
 - *2024.03 - now*, Associate Researcher, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, China.
