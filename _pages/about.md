@@ -26,8 +26,8 @@ Guoshuai Li, Xin Li*, Tandong Yao, Tao Che, Hong Yang, Mingguo Ma, Haipeng Zhao,
 
 Guoshuai Li. (2023). A dataset of global sand flux. http://www.ncdc.ac.cn/portal/metadata/e70e47ed-c10d-4d49-9bb3-62bbf2f06de5. https://doi.org/10.11888/Terre.tpdc.300853.
 
-# 🎖 Honors and Awards
--shujuji *2014* the Special Prize of President Scholarship for Postgraduate Students, Chinese Academy of Sciences 
+# 🎖 Awards
+- *2014* the Special Prize of President Scholarship for Postgraduate Students, Chinese Academy of Sciences 
 
 # 📖 Educations
 - *2024.03 - now*, Associate Researcher, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, China.
