@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interest includes glacierization of desert stuides. I have published more than 10 sci papers.
+My research interest includes desert boundary, bedform migration and sediment budget. I have published more than 10 sci papers.
 
 
 # 🔥 News
