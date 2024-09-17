@@ -16,7 +16,7 @@ My research interest includes changes in desert boundary, bedform migration and 
 
 # 📚 Publications 
 
-Guoshuai Li, Lihai Tan, Bao Yang, Tao Che, Guangcai Feng, Fredrik Charpentier Ljungqvist, Yayong Luo, Heqiang Du, Hui Zhao, Ying Zhang, Chunlin Huang, Ning Huang, Wenjun Tang, Rui Jin, Xin Li*. Site selection of desert solar farms based on heterogeneous sand flux. npj Climate and Atmospheric Science 7, 61 (2024). https://doi.org/10.1038/s41612-024-00606-4
+Guoshuai Li, Lihai Tan, Bao Yang, Tao Che, Guangcai Feng, Fredrik Charpentier Ljungqvist, Yayong Luo, Heqiang Du, Hui Zhao, Ying Zhang, Chunlin Huang, Ning Huang, Wenjun Tang, Rui Jin, Xin Li*. [Site selection of desert solar farms based on heterogeneous sand flux](https://doi.org/10.1038/s41612-024-00606-4). npj Climate and Atmospheric Science 7, 61 (2024). 
 
 Guoshuai Li*, Hong Yang, Ying Zhang, Chunlin Huang, Xiaoduo Pan, Mingguo Ma, Minhong Song, Haipeng Zhao. Increased extreme precipitation in Chinese deserts from 1960 to 2018. Earth and Space Science 6, 1196-1204 (2019). https://doi.org/10.1029/2018EA000538
 
