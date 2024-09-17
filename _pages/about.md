@@ -24,7 +24,7 @@ My research interest includes changes in desert boundary, bedform migration and 
 
 # 💾 Datasets
 
-**Guoshuai Li**. (2023). [A dataset of global sand flux](http://www.ncdc.ac.cn/portal/metadata/e70e47ed-c10d-4d49-9bb3-62bbf2f06de5). National Tibetan Plateau / Third Pole Environment Data Center. https://doi.org/10.11888/Terre.tpdc.300853. https://cstr.cn/18406.11.Terre.tpdc.300853.
+**Guoshuai Li**. (2023). [A dataset of global sand flux](http://www.ncdc.ac.cn/portal/metadata/e70e47ed-c10d-4d49-9bb3-62bbf2f06de5). National Tibetan Plateau / Third Pole Environment Data Center. <https://doi.org/10.11888/Terre.tpdc.300853>. <https://cstr.cn/18406.11.Terre.tpdc.300853>.
 # 🎖 Awards
 - *2014* the Special Prize of President Scholarship for Postgraduate Students, Chinese Academy of Sciences 
 
