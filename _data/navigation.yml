@@ -6,14 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
-  - title: "Datasets"
-    url: "/#-datasets"
+  - title: "Shared Datasets"
+    url: "/#-shared-datasets"
 
-  - title: "Awards"
-    url: "/#-awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Educations and Employments"
+    url: "/#-educations-and-employments"
