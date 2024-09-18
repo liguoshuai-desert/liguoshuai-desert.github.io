@@ -37,4 +37,4 @@ My research interest includes changes in desert boundary, bedform migration and 
 - *2005.09 - 2009.06*, Undergraduate, Henan University of Economics and Law, Zhengzhou, China. 
 
 # 👨‍💻 Visters
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rGrwpt4J2Po2aK3kot_XHonv0RxKP4lL1-jil_3Bzh0&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=rGrwpt4J2Po2aK3kot_XHonv0RxKP4lL1-jil_3Bzh0"></script>
