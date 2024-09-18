@@ -32,10 +32,10 @@ My research interest includes changes in desert boundary, desert hydrology, bedf
 # 📖 Educations and Employments
 - *2024.03 - now*, Associate Researcher, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, China.
 - *2022.09 - 2024.02*, Research Assistant, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, China.
-- *2016.09 - 2022.06*, Postdoctoral Fellow, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
+- *2016.09 - 2022.06*, Postdoctoral Researcher, Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing, China.
 - *2012.09 - 2016.06*, Doctor, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
 - *2009.09 - 2012.06*, Master, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, China. 
-- *2005.09 - 2009.06*, Undergraduate, Henan University of Economics and Law, Zhengzhou, China. 
+- *2005.09 - 2009.06*, Bachelor, Henan University of EconBacheloromics and Law, Zhengzhou, China. 
 
 # 👨‍💻 Vister map
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=550&t=tt&d=rGrwpt4J2Po2aK3kot_XHonv0RxKP4lL1-jil_3Bzh0&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
