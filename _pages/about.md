@@ -14,7 +14,7 @@ My research interest includes changes in desert boundary, bedform migration and 
 # 🔥 News
 - *2024.09*: none
 
-# 📚 Publications 
+# 📚 Selected Publications 
 
 **Guoshuai Li**, Lihai Tan, Bao Yang, Tao Che, Guangcai Feng, Fredrik Charpentier Ljungqvist, Yayong Luo, Heqiang Du, Hui Zhao, Ying Zhang, Chunlin Huang, Ning Huang, Wenjun Tang, Rui Jin, Xin Li*. [Site selection of desert solar farms based on heterogeneous sand flux](https://doi.org/10.1038/s41612-024-00606-4). _npj Climate and Atmospheric Science_ 7, 61 (2024). 
 
@@ -22,13 +22,14 @@ My research interest includes changes in desert boundary, bedform migration and 
 
 **Guoshuai Li**, Xin Li*, Tandong Yao, Tao Che, Hong Yang, Mingguo Ma, Haipeng Zhao, Xiaoduo Pan. [Heterogeneous sea-level rises along coastal zones and small islands](https://doi.org/10.1016/j.scib.2019.04.023). _Science Bulletin_ 64, 748-755 (2019). 
 
-# 💾 Datasets
+# 💾 Shared Datasets
 
 **Guoshuai Li**. (2023). [A dataset of global sand flux](http://www.ncdc.ac.cn/portal/metadata/e70e47ed-c10d-4d49-9bb3-62bbf2f06de5). National Tibetan Plateau / Third Pole Environment Data Center. <https://doi.org/10.11888/Terre.tpdc.300853>. <https://cstr.cn/18406.11.Terre.tpdc.300853>.
-# 🎖 Awards
+
+# 🎖 Honors and Awards
 - *2014* the Special Prize of President Scholarship for Postgraduate Students, Chinese Academy of Sciences 
 
-# 📖 Educations
+# 📖 Educations and Employments
 - *2024.03 - now*, Associate Researcher, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, China.
 - *2022.09 - 2024.02*, Research Assistant, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, China.
 - *2016.09 - 2022.06*, Postdoctoral Fellow, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
@@ -36,5 +37,5 @@ My research interest includes changes in desert boundary, bedform migration and 
 - *2009.09 - 2012.06*, Master, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, China. 
 - *2005.09 - 2009.06*, Undergraduate, Henan University of Economics and Law, Zhengzhou, China. 
 
-# 👨‍💻 Visters
+# 👨‍💻 Vister map
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=550&t=tt&d=rGrwpt4J2Po2aK3kot_XHonv0RxKP4lL1-jil_3Bzh0&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
