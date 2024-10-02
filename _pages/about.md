@@ -12,7 +12,7 @@ My research interest includes changes in desert boundary, desert water, bedform 
 
 
 # 🔥 News
-- *2024.09*: none
+- *2024.10*: none
 
 # 📚 Selected Publications 
 
