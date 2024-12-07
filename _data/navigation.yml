@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Selected Publications"
-    url: "/#-selected-publications"
+  - title: "Recent Publications"
+    url: "/#-recent-publications"
 
   - title: "Shared Datasets"
     url: "/#-shared-datasets"
