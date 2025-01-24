@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Recent Publications"
-    url: "/#-recent-publications"
+  - title: "Research output"
+    url: "/#-research-output"
 
-  - title: "Shared Datasets"
-    url: "/#-shared-datasets"
+  - title: "Datasets"
+    url: "/#-datasets"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
