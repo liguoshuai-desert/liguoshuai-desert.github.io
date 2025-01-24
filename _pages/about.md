@@ -14,7 +14,7 @@ My research interest includes changes in desert boundary, desert water, bedform 
 # 🔥 News
 - *2025.01*: none
 
-# 📚 Recent Publications 
+# 📚 Research output 
 
 **Guoshuai Li**, Lihai Tan, Bao Yang, Tao Che, Guangcai Feng, Fredrik Charpentier Ljungqvist, Yayong Luo, Heqiang Du, Hui Zhao, Ying Zhang, Chunlin Huang, Ning Huang, Wenjun Tang, Rui Jin, Xin Li*. [Site selection of desert solar farms based on heterogeneous sand flux](https://doi.org/10.1038/s41612-024-00606-4). _npj Climate and Atmospheric Science_ 7, 61 (2024). 
 
@@ -22,9 +22,9 @@ My research interest includes changes in desert boundary, desert water, bedform 
 
 **Guoshuai Li**, Xin Li*, Tandong Yao, Tao Che, Hong Yang, Mingguo Ma, Haipeng Zhao, Xiaoduo Pan. [Heterogeneous sea-level rises along coastal zones and small islands](https://doi.org/10.1016/j.scib.2019.04.023). _Science Bulletin_ 64, 748-755 (2019). 
 
-# 💾 Shared Datasets
+# 💾 Datasets
 
-**Guoshuai Li**. (2023). [A dataset of global sand flux](http://www.ncdc.ac.cn/portal/metadata/e70e47ed-c10d-4d49-9bb3-62bbf2f06de5). National Tibetan Plateau Data Center (TPDC). <https://doi.org/10.11888/Terre.tpdc.300853>. <https://cstr.cn/18406.11.Terre.tpdc.300853>.
+**Guoshuai Li**. (2023). [A dataset of global sand flux](http://www.ncdc.ac.cn/portal/metadata/e70e47ed-c10d-4d49-9bb3-62bbf2f06de5). National Tibetan Plateau Data Center (TPDC). <https://doi.org/10.11888/Terre.tpdc.300853>. <https://cstr.cn/11738.11.NCDC.ZENODO.DB3956.2023>.
 
 # 🏅 Honors and Awards
 - *2014* the Special Prize of President Scholarship for Postgraduate Students, Chinese Academy of Sciences 
