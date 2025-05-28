@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interest includes changes in desert boundary, desert water, bedform migration and sediment budget. I have published more than 10 sci papers.
+My research interest includes changes in sediment budget, bedform migration, desert boundary, desert wind and desert water. I have published more than 10 sci papers.
 
 
 # 🔥 News
