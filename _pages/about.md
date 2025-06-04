@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research primarily focuses on desert remote sensing, with particular emphasis on desert boundary delineation, wind dynamics, water characteristics, bedform migration, and sediment budgets.I have published more than 10 sci papers.
+My research primarily focuses on desert remote sensing, with particular emphasis on desert boundary delineation, wind dynamics, water characteristics, bedform migration, and sediment budgets. I have published more than 10 sci papers.
 
 
 # 🔥 News
