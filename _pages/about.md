@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My research interest includes changes in sediment budget, bedform migration, desert boundary, desert wind and desert water. I have published more than 10 sci papers.
+My research primarily focuses on desert remote sensing, with particular emphasis on desert boundary delineation, wind dynamics, water characteristics, bedform migration, and sediment budgets.I have published more than 10 sci papers.
 
 
 # 🔥 News
-- *2025.01*: none
+- *2025.06*: none
 
 # 📚 Research output 
 
