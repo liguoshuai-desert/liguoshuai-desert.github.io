@@ -16,11 +16,14 @@ My research primarily focuses on desert remote sensing, with particular emphasis
 
 # 📚 Research output 
 
+### 2025
+**Guoshuai Li***, Bao Yang, Guangjian Wu, Guangcai Feng, Fredrik Charpentier Ljungqvist, Tao Che, Ying Zhang, Hong Yang, Xiaodan Guan, Chunlin Huang, Jianhua Xiao, Yunfa Miao. [Increased desertification exposure in dryland areas](https://doi.org/10.1016/j.ecolind.2025.114264). _Ecological Indicators_ 179, 114264 (2025).
+
 ### 2024
 **Guoshuai Li**, Lihai Tan, Bao Yang, Tao Che, Guangcai Feng, Fredrik Charpentier Ljungqvist, Yayong Luo, Heqiang Du, Hui Zhao, Ying Zhang, Chunlin Huang, Ning Huang, Wenjun Tang, Rui Jin, Xin Li*. [Site selection of desert solar farms based on heterogeneous sand flux](https://doi.org/10.1038/s41612-024-00606-4). _npj Climate and Atmospheric Science_ 7, 61 (2024). 
 
 ### 2023
-杨定江，冯光财，冯志雄，**李国帅**，张洁.2023.[Landsat 5 TM沙丘迁移场的误差消除与时序反演：以毛乌素沙地西北部沙丘为例](https://dx.doi.org/10.11834/jrs.20211085).遥感学报，27（11）： 2552-2564.
+杨定江，冯光财，冯志雄，**李国帅**，张洁.2023.[Landsat 5 TM沙丘迁移场的误差消除与时序反演：以毛乌素沙地西北部沙丘为例](https://dx.doi.org/10.11834/jrs.20211085). _遥感学报_ 27（11）： 2552-2564.
 
 ### 2022
 Zhengjie Yan, Jinfeng Xu, Xiaoyi Wang, Zhiyong Yang, Dan Liu, **Guoshuai Li**, Huabing Huang. [Continued spring phenological advance under global warming hiatus over the Pan-Third Pole](https://doi.org/10.3389/fpls.2022.1071858). _Frontiers in Plant Science_ 13, 1-12 (2022).
