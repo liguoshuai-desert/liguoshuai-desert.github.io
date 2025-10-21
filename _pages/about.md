@@ -12,7 +12,7 @@ My research primarily focuses on desert remote sensing, with particular emphasis
 
 
 # 🔥 News
-- *2025.06*: none
+- *2025.10*: none
 
 # 📚 Research output 
 
