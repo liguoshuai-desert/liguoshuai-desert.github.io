@@ -17,7 +17,7 @@ My research primarily focuses on desert remote sensing, with particular emphasis
 # 📚 Research output 
 
 ### 2026
-Hong Yang*, Qi Feng*, Jianhua Xiao, **Guoshuai Li**, Julian R. Thompson. [Rapid solar energy development in deserts: A missing element in desertification control and achieving Sustainable Development Goals](https://doi.org/10.1073/pnas.2601509123). _Proceedings of the National Academy of Sciences of the United States of America_ 123 (10): e2601509123 (2026).
+Hong Yang *, Qi Feng *, Jianhua Xiao, **Guoshuai Li**, Julian R. Thompson. [Rapid solar energy development in deserts: A missing element in desertification control and achieving Sustainable Development Goals](https://doi.org/10.1073/pnas.2601509123). _Proceedings of the National Academy of Sciences of the United States of America_ 123 (10): e2601509123 (2026).
 
 ### 2025
 **Guoshuai Li***, Bao Yang, Guangjian Wu, Guangcai Feng, Fredrik Charpentier Ljungqvist, Tao Che, Ying Zhang, Hong Yang, Xiaodan Guan, Chunlin Huang, Jianhua Xiao, Yunfa Miao. [Increased desertification exposure in dryland areas](https://doi.org/10.1016/j.ecolind.2025.114264). _Ecological Indicators_ 179, 114264 (2025).
