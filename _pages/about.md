@@ -29,7 +29,7 @@ Hong Yang✉, Qi Feng✉, Jianhua Xiao, **Guoshuai Li**, Julian R. Thompson. [Ra
 杨定江，冯光财✉，冯志雄，**李国帅**，张洁. [Landsat 5 TM沙丘迁移场的误差消除与时序反演：以毛乌素沙地西北部沙丘为例](https://dx.doi.org/10.11834/jrs.20211085). _遥感学报_ 27(11): 2552-2564 (2023).
 
 ### 2022
-Zhengjie Yan, Jinfeng Xu, Xiaoyi Wang✉, Zhiyong Yang, Dan Liu✉, **Guoshuai Li**, Huabing Huang. [Continued spring phenological advance under global warming hiatus over the Pan-Third Pole](https://doi.org/10.3389/fpls.2022.1071858). _Frontiers in Plant Science_ 13, 1-12 (2022).
+Zhengjie Yan, Jinfeng Xu✉, Xiaoyi Wang✉, Zhiyong Yang, Dan Liu, **Guoshuai Li**, Huabing Huang. [Continued spring phenological advance under global warming hiatus over the Pan-Third Pole](https://doi.org/10.3389/fpls.2022.1071858). _Frontiers in Plant Science_ 13, 1-12 (2022).
 
 ### 2021
 Yingying Yao, Chunmiao Zheng✉, Charles B Andrews, Bridget R Scanlon, Xingxing Kuang, Zhenzhong Zeng, Su‐Jong Jeong, Michele Lancia, Yiping Wu, **Guoshuai Li**. [Role of groundwater in sustaining northern Himalayan rivers](https://doi.org/10.1029/2020GL092354). _Geophysical Research Letters_ 48, e2020GL092354 (2021).
