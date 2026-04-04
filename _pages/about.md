@@ -17,7 +17,7 @@ My research primarily focuses on desert remote sensing, with particular emphasis
 # 📚 Research output 
 
 ### 2026
-Ying Zhang, Chunlin Huang✉, Guoshuai Li, Jinliang Hou, Peng Dou, Weijing Chen. [ECHO: an integrated model fusing remote sensing and AI for dynamic water resource assessment](https://doi.org/10.1080/17538947.2026.2650061). International Journal of Digital Earth, 19(1):2650061 (2026). 
+Ying Zhang, Chunlin Huang✉, Guoshuai Li, Jinliang Hou, Peng Dou, Weijing Chen. [ECHO: an integrated model fusing remote sensing and AI for dynamic water resource assessment](https://doi.org/10.1080/17538947.2026.2650061). _International Journal of Digital Earth_ 19(1):2650061 (2026). 
 
 Hong Yang✉, Qi Feng✉, Jianhua Xiao, **Guoshuai Li**, Julian R. Thompson. [Rapid solar energy development in deserts: A missing element in desertification control and achieving Sustainable Development Goals](https://doi.org/10.1073/pnas.2601509123). _Proceedings of the National Academy of Sciences of the United States of America_ 123 (10): e2601509123 (2026).
 
