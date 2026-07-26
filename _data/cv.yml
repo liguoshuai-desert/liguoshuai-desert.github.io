@@ -79,6 +79,15 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
+      - company: Institute of Tibetan Plateau Research, Chinese Academy of Sciences
+        position: Postdoctoral Researcher
+        location: Beijing, China
+        start_date: 2016.06
+        end_date: 2022.06
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
+
     # Volunteer:
     #   - company: People's Climate March
     #     position: Lead Organizer
