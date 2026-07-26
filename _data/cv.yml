@@ -23,66 +23,59 @@ cv:
 
   sections:
     Education:
+      - institution: Aerospace Information Research Institute, Chinese Academy of Sciences
+        location: Beijing, China
+        url: https://www.aircas.ac.cn/
+        area: Signal and information processing
+        studyType: Doctor
+        start_date: 2012.09
+        end_date: 2016.06
+        score: ""
+        courses: ""
+        highlights:
+          - Description 1.
+          - Description 2.
+
       - institution: Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences
         location: Lanzhou, China
-        url: http://www.nieer.cas.cn/
         area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        studyType: Master
+        start_date: 2009.09
+        end_date: 2012.06
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
+      - institution: Henan University of Economics and Law
+        location: Zhengzhou, China
         area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        studyType: Bachelor
+        start_date: 2005.09
+        end_date: 2009.06
         highlights:
           - Description 1.
           - Description 2.
+
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
+      - company: Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences
+        position: Associate Researcher
+        location: Lanzhou, China
+        start_date: 2024.03
+        end_date: now
         summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
           - Relativity
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences
+        position: Research Assistant
+        location: Lanzhou, China
+        start_date: 2022.09
+        end_date: 2024.02
         highlights:
           - Description 1.
           - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Volunteer:
       - company: People's Climate March
@@ -96,11 +89,11 @@ cv:
           - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: the Special Prize of President Scholarship for Postgraduate Students, Chinese Academy of Sciences
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
+          - "Chinese Academy of Sciences"
+        date: 2014-10-07
+        awarder: Chinese Academy of Sciences
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
