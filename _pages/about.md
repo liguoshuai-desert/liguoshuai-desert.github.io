@@ -29,7 +29,7 @@ latest_posts:
 
 My research focuses on desert remote sensing of aeolian and hydrological processes using satellite and airborne data. Specifically, I study:
 
-🏜️ **Desert boundary delineation**: manual mapping combined with satellite imagery to capture gradual encroachment and abrupt shifts driven by climate and land use.
+🏜️ **Desert boundary delineation**: manual mapping combined with satellite imagery to capture gradual changes.
 
 💨 **Wind dynamics**: sand flux and drift patterns from high-resolution reanalysis data.
 
