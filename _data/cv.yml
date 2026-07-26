@@ -7,12 +7,12 @@ cv:
   summary: My research primarily focuses on desert remote sensing, with particular emphasis on desert boundary delineation, wind dynamics, water characteristics, bedform migration, and sediment budgets.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    - network: Researchgate
+      username: Guoshuai Li
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: liguoshuai-desert
+    # - network: LinkedIn
+    #   username: example
 
   address:
     street: 318 Road Donggangxi
@@ -32,9 +32,9 @@ cv:
         end_date: 2016.06
         score: ""
         courses: ""
-        highlights:
-          - Description 1.
-          - Description 2.
+        # highlights:
+          # - Description 1.
+          # - Description 2.
 
       - institution: Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences
         location: Lanzhou, China
@@ -43,9 +43,9 @@ cv:
         studyType: Master
         start_date: 2009.09
         end_date: 2012.06
-        highlights:
-          - Description 1.
-          - Description 2.
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       - institution: Henan University of Economics and Law
         location: Zhengzhou, China
@@ -54,9 +54,9 @@ cv:
         studyType: Bachelor
         start_date: 2005.09
         end_date: 2009.06
-        highlights:
-          - Description 1.
-          - Description 2.
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
 
     Experience:
@@ -66,38 +66,38 @@ cv:
         start_date: 2024.03
         end_date: now
         summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
       - company: Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences
         position: Research Assistant
         location: Lanzhou, China
         start_date: 2022.09
         end_date: 2024.02
-        highlights:
-          - Description 1.
-          - Description 2.
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: the Special Prize of President Scholarship for Postgraduate Students, Chinese Academy of Sciences
         authors:
-          - "Chinese Academy of Sciences"
+          - "Guoshuai Li"
         date: 2014-10-07
         awarder: Chinese Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
       # - title: Max Planck Medal
       #   authors:
