@@ -27,16 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research is centered on desert remote sensing, aiming to understand aeolian and hydrological processes in desert environments through satellite and airborne observations. Specifically, I investigate:
+My research centers on desert remote sensing, investigating aeolian and hydrological processes via satellite and airborne data. Specifically, I study:
 
-🏜️ Desert boundary delineation: manually delineating desert boundaries and utilizing satellite imagery to map desert ecosystems, capturing both gradual encroachment and abrupt shifts driven by climate and land use.
+🏜️ Desert boundary delineation: manual mapping combined with satellite imagery to capture gradual encroachment and abrupt shifts driven by climate and land use.
 
-💨 Wind dynamics: analyzing sand flux and sand drift patterns using high-resolution reanalysis data.
+💨 Wind dynamics: analyzing sand flux and drift patterns using high-resolution reanalysis data.
 
-💧 Water characteristics: assessing precipitation patterns and groundwater variations based on precipitation data and GRACE satellite observations.
+💧 Water characteristics: assessing precipitation and groundwater variations from precipitation records and GRACE.
 
-➡️ Bedform migration: quantifying dune migration rates and morphological evolution from repeat optical images (e.g., Landsat, Sentinel-2), applying feature tracking and digital elevation model differencing to resolve seasonal to decadal timescales.
+➡️ Bedform migration: quantifying dune migration rates and morphology from repeat optical images (Landsat, Sentinel-2) via feature tracking and DEM differencing at seasonal to decadal scales.
 
-⚖️ Sediment budgets: constructing mass balance frameworks that integrate erosion and deposition volumes derived from DEMs, field measurements, and sediment flux models, accounting for source-to-sink pathways across desert systems.
+⚖️Sediment budgets: constructing mass balance frameworks integrating erosion/deposition from DEMs, field measurements, and flux models across source-to-sink pathways.
 
-By integrating these themes, my work contributes to a predictive understanding of desert landscape responses to climatic forcing and anthropogenic pressures, supporting sustainable land management and hazard mitigation.
+Together, these themes advance predictive understanding of desert landscape responses to climatic and anthropogenic forcings, supporting sustainable land management and hazard mitigation.
