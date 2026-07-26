@@ -1,13 +1,13 @@
 github_users:
-  - [Guoshuai Li](https://github.com/liguoshuai-desert)
-#  - liguoshuai-desert
+# - [Guoshuai Li](https://github.com/liguoshuai-desert)
+- liguoshuai-desert
 
 repo_description_lines_max: 4
 
 github_repos:
-- [wind-flux](https://github.com/liguoshuai-desert/wind-flux)
-- [sand-drift](https://github.com/liguoshuai-desert/sand-drift)
-- [dust-flux](https://github.com/liguoshuai-desert/dust-flux)
-#  - liguoshuai-desert/wind-flux
-#  - liguoshuai-desert/sand-drift
-#  - liguoshuai-desert/dust-flux
+# - [wind-flux](https://github.com/liguoshuai-desert/wind-flux)
+# - [sand-drift](https://github.com/liguoshuai-desert/sand-drift)
+# - [dust-flux](https://github.com/liguoshuai-desert/dust-flux)
+- liguoshuai-desert/wind-flux
+- liguoshuai-desert/sand-drift
+- liguoshuai-desert/dust-flux
