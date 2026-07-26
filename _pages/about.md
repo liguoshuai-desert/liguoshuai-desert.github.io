@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>318 Road Donggangxi, District Chengguan</p>
+    <p>liguoshuai@lzb.ac.cn</p>
+    <p>318 Road Donggangxi</p>
     <p>Lanzhou, China 730000</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
