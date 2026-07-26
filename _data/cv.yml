@@ -65,7 +65,7 @@ cv:
         location: Lanzhou, China
         start_date: 2024.03
         end_date: now
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         # highlights:
         #   - Relativity
         #   - Description 2.
