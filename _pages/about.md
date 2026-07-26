@@ -27,4 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research primarily focuses on desert remote sensing, with particular emphasis on desert boundary delineation, wind dynamics, water characteristics, bedform migration, and sediment budgets. 
+My research is centered on desert remote sensing, aiming to understand aeolian and hydrological processes in desert environments through satellite and airborne observations. Specifically, I investigate:
+
+🏜️ Desert boundary delineation: manually delineating desert boundaries and utilizing satellite imagery to map desert ecosystems, capturing both gradual encroachment and abrupt shifts driven by climate and land use.
+
+💨 Wind dynamics: analyzing sand flux and sand drift patterns using high-resolution reanalysis data.
+
+💧 Water characteristics: assessing precipitation patterns and groundwater variations based on precipitation data and GRACE satellite observations.
+
+➡️ Bedform migration: quantifying dune migration rates and morphological evolution from repeat optical images (e.g., Landsat, Sentinel-2), applying feature tracking and digital elevation model differencing to resolve seasonal to decadal timescales.
+
+⚖️ Sediment budgets: constructing mass balance frameworks that integrate erosion and deposition volumes derived from DEMs, field measurements, and sediment flux models, accounting for source-to-sink pathways across desert systems.
+
+By integrating these themes, my work contributes to a predictive understanding of desert landscape responses to climatic forcing and anthropogenic pressures, supporting sustainable land management and hazard mitigation.
