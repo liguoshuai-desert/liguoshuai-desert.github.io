@@ -342,7 +342,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Li, 李]
-  first_name: [Guoshuai, Guo Shuai, Guo-Shuai, G.S., G.，GS, 国帅]
+  first_name: [Guoshuai, Guo Shuai, Guo-Shuai, G.S., G.，GS, 国帅，国 帅]
 
   style: apa
   locale: en
