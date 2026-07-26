@@ -17,9 +17,9 @@ cv:
   address:
     street: No.318 Road Donggangxi, District Chengguan
     city: Lanzhou
-    region: Gansu
+    region: China
     postalCode: 730000
-    countryCode: China
+    countryCode: CN
 
   sections:
     Education:
