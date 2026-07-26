@@ -4,6 +4,9 @@ github_users:
 repo_description_lines_max: 4
 
 github_repos:
-  - liguoshuai-desert/wind-flux
-  - liguoshuai-desert/sand-drift
-  - liguoshuai-desert/dust-flux
+- [wind-flux](https://github.com/liguoshuai-desert/wind-flux)
+- [sand-drift](https://github.com/liguoshuai-desert/sand-drift)
+- [dust-flux](https://github.com/liguoshuai-desert/dust-flux)
+#  - liguoshuai-desert/wind-flux
+#  - liguoshuai-desert/sand-drift
+#  - liguoshuai-desert/dust-flux
