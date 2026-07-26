@@ -3,9 +3,6 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-Affiliations: Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences
-Address: No.318 Road Donggangxi, District Chengguan, Lanzhou, Gansu, China
-Contacts: liguoshuai@lzb.ac.cn
 
 profile:
   align: right
