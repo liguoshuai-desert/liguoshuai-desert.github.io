@@ -39,4 +39,4 @@ My research focuses on desert remote sensing of aeolian and hydrological process
 
 ⚖️ **Sediment budgets**: mass balance frameworks integrating erosion/deposition from satellite measurements and sand flux models across desert systems.
 
-Together, these themes advance predictions of desert landscape responses to climatic and anthropogenic forcings, aiding sustainable land management and hazard mitigation.
+Together, these themes advance predictions of desert landscape responses to climatic and anthropogenic forcings, aiding land degradation neutrality.
