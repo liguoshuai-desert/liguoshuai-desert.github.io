@@ -61,6 +61,7 @@ cv:
 
     Experience:
       - company: Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences
+        url: http://www.nieer.cas.cn/
         position: Associate Researcher
         location: Lanzhou, China
         start_date: 2024.03
@@ -71,6 +72,7 @@ cv:
         #   - Description 2.
 
       - company: Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences
+        url: http://www.nieer.cas.cn/
         position: Research Assistant
         location: Lanzhou, China
         start_date: 2022.09
@@ -80,6 +82,7 @@ cv:
         #   - Description 2.
 
       - company: Institute of Tibetan Plateau Research, Chinese Academy of Sciences
+        url: http://www.itpcas.ac.cn/index/
         position: Postdoctoral Researcher
         location: Beijing, China
         start_date: 2016.06
