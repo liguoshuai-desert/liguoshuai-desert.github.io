@@ -1,0 +1,19 @@
+name: Sync al-folio upstream
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # 每周日凌晨自动运行，每周检查一次更新
+  workflow_dispatch: # 支持手动点击触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync upstream al-folio
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3
+        with:
+          upstream_repository: alshedivat/al-folio
+          target_branch: main
+          upstream_branch: master
+          sync_target: 'pull-request' # 模式：创建PR，不直接合并
+          pr_title: "🔄 Sync latest al-folio template update"
+          pr_body: "This PR contains latest changes from official al-folio. Please check merge conflicts carefully!"
